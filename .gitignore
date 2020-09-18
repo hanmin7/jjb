@@ -1,3 +1,11 @@
+/jjb/.settings/*
+.classpath
+.project
+/target/*
+/jjb/bin/*
+
+
+
 # Compiled class file
 *.class
 
